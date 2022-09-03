@@ -4,4 +4,4 @@ app.get("/getUser", (req, res)=>{
   console.log("This is test for edit");
   res.send("Hello Jitendra khare");
 });
-app.listen(4000);
+app.listen(3000);
